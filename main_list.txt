@@ -1,6 +1,6 @@
+// Work at sound
 opus.pro
 zencastr.com
-
 ingamejob.com
 artstation.com
 izotope.com
@@ -9,9 +9,13 @@ tonsturm.com
 avid.com
 boomlibrary.com
 
+// Recipes
+orangepage.net
+oceans-nadia.com
 paprikaapp.com
 justonecookbook.com
 
+// Digital
 metacritic.com
 backloggd.com
 eshop-prices.com
@@ -19,6 +23,7 @@ images.eshop-prices.com
 target.com
 eneba.com
 
+// xxx
 jav.guru
 kemono.cr
 hentailib.me
