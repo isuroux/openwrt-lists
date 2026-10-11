@@ -22,6 +22,7 @@ eshop-prices.com
 images.eshop-prices.com
 target.com
 eneba.com
+ebay.com
 
 // Music
 music.apple.com
