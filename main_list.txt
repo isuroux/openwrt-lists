@@ -45,3 +45,6 @@ jav.guru
 kemono.cr
 hentailib.me
 hanime.tv
+
+// Tests
+reg.ru/web-tools/myip
