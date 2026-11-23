@@ -1,3 +1,6 @@
+// Tests
+reg.ru/web-tools/myip
+
 // Work at sound
 opus.pro
 zencastr.com
@@ -46,5 +49,4 @@ kemono.cr
 hentailib.me
 hanime.tv
 
-// Tests
-reg.ru/web-tools/myip
+
